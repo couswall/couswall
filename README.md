@@ -3,7 +3,7 @@
 
 ###
 
-<p align=""left>Passionate front-end developer proficient in HTML, CSS, and JavaScript. Embracing React to craft dynamic and engaging web experiences.</p>
+<p align=""left>Enthusiastic front-end developer with a focus on React, dedicated to creating seamless and dynamic web experiences. Eager to contribute to innovative projects and learn alongside a collaborative team</p>
 <br/
 
 ###
