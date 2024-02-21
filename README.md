@@ -1,5 +1,12 @@
 <h1 align="left">Hi👋, I'm Andre.</h1>
-<br />
+
+
+###
+
+<p align=""left>Passionate front-end developer proficient in HTML, CSS, and JavaScript. Embracing React to craft dynamic and engaging web experiences.</p>
+<br/
+
+###
 
 <h3 align="left">Technologies</h2>
 
@@ -18,7 +25,7 @@
 
 | **Project Details** | **Preview** |
 | --- | :---: |
-| <h3><a href="https://clothing-store-couswall.netlify.app/">Dollek e-commerce</a></h3> <p>Created a React e-commerce site for effortless shopping. The site includes advanced features such as item search, detailed product exploration, and flexible cart management 🛒🥼</p> <h3>Stack</h3> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> <img width="10" /> <img src="https://skillicons.dev/icons?i=html" height="40" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> <img width="10" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> | hey |
+| <h3><a href="https://clothing-store-couswall.netlify.app/">Dollek e-commerce</a></h3> <p>Created a React e-commerce site for effortless shopping. The site includes advanced features such as item search, detailed product exploration, and flexible cart management 🛒🥼</p> [![Static Badge](https://img.shields.io/badge/Source-gray?style=flat&logo=github)](https://github.com/couswall/clothing-store)  [![Static Badge](https://img.shields.io/badge/Demo-purple?style=flat)](https://clothing-store-couswall.netlify.app/) <h3>Stack</h3> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> <img width="10" /> <img src="https://skillicons.dev/icons?i=html" height="40" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> <img width="10" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />  | <a href="https://clothing-store-couswall.netlify.app/"><img src="https://live.staticflickr.com/65535/53542519022_c3cf4ba416_k.jpg" width="550"/><a/> |
 
 
 
