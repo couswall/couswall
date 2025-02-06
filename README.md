@@ -3,7 +3,7 @@
 
 ###
 
-<p align=""left>Enthusiastic front-end developer with a focus on React, dedicated to creating seamless and dynamic web experiences. Eager to contribute to innovative projects and learn alongside a collaborative team</p>
+<p align=""left>Dedicated full-stack developer with expertise in both front-end and back-end technologies. Skilled in creating seamless and dynamic web experiences using MongoDB, Express, React, Node.js, and PostgreSQL. Enthusiastically committed to driving innovation and excelling in collaborative project environments.</p>
 <br/
 
 ###
